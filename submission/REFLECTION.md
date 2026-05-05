@@ -1,8 +1,8 @@
 # Reflection — Lab 19
 
-**Tên:** _<Họ Tên>_
-**Cohort:** _<A20-K1 / A20-K2 / ...>_
-**Path đã chạy:** _<lite | docker | both>_
+**Tên:** Nguyễn Thành Đạt - 2A202600203
+**Cohort:** A20-K1 
+**Path đã chạy:** lite
 
 ---
 
